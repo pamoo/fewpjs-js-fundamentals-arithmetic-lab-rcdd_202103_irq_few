@@ -1,6 +1,6 @@
 
 // Write your code here
-let num1=60;
+let num1=31;
 let num2=2;
 let num3=10;
 let num4=6;
